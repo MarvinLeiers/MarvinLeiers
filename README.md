@@ -1,6 +1,6 @@
 # Welcome to my GitHub-Page 👋
 
-I mainly upload code of my spigot projects here.
+I mainly upload code of my spigot projects here. Have a look around!
 
 ### Here are some useful links:
 
