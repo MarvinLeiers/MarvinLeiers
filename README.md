@@ -12,7 +12,7 @@ I mainly upload code of my spigot projects here. Have a look around!
 * 👁‍🗨 **Important** inqueries only: [github@leiers.dev](mailto:github@leiers.dev)
 
 
-You can find a small selection of my plugins right down there 👇 
+You can find a small selection of my repositories right down there 👇 
 
 <!--
 **MarvinLeiers/MarvinLeiers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
