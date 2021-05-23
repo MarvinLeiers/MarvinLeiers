@@ -4,6 +4,8 @@ Hello, I am a 20 y/o computer-science university student from  🇩🇪  with ma
 
 I mainly upload code of my spigot projects here. Have a look around!
 
+<img src="https://github-readme-stats.vercel.app/api?username=MarvinLeiers&count_private=true&show_icons=true&include_all_commits=true">
+
 ### Here are some useful links:
 
 * 💲 Order a **spigot plugin** [here](https://marvinleiers.de/plugin) - only $5. (not available atm)
