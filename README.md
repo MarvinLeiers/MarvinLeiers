@@ -10,7 +10,7 @@ I mainly upload code of my spigot projects here. Have a look around!
 
 * 💲 Order a **spigot plugin** [here](https://www.fiverr.com/share/d5Kraz) - only $5.
 * 💎 You can find my best **Spigot-Resources** [here](https://www.spigotmc.org/resources/authors/marvin2k0.1093280/) 
-* 🌍 Visit my **website** [marvinleiers.de](https://marvinleiers.de) for more interesting information
+* 🌍 Visit my **website** [leiers.org](https://leiers.org) for more interesting information
 
 
 You can find a small selection of my repositories right down there 👇
